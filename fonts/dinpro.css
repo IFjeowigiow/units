@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'DIN Pro';
+	src: url('./DINPro-Bold.eot');
+	src: local('DIN Pro Bold'), local('DINPro-Bold'),
+		url('./DINPro-Bold.eot?#iefix') format('embedded-opentype'),
+		url('./DINPro-Bold.woff') format('woff'),
+		url('./DINPro-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'DIN Pro';
+	src: url('./DINPro-Medium.eot');
+	src: local('DIN Pro Medium'), local('DINPro-Medium'),
+		url('./DINPro-Medium.eot?#iefix') format('embedded-opentype'),
+		url('./DINPro-Medium.woff') format('woff'),
+		url('./DINPro-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'PF Din Text Universal';
+    src: url('./PFDinTextUniversal-Medium.eot');
+    src: local('PF Din Text Universal Medium'), local('PFDinTextUniversal-Medium'),
+        url('./PFDinTextUniversal-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./PFDinTextUniversal-Medium.woff2') format('woff2'),
+        url('./PFDinTextUniversal-Medium.woff') format('woff'),
+        url('./PFDinTextUniversal-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
