@@ -229,6 +229,7 @@ li:before{
     width: 100%;
     height: 100%;
     z-index: 59;
+    overflow: hidden;
 }
 .popup{
     display: none;
@@ -250,6 +251,7 @@ li:before{
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
     box-shadow: 0px 67px 68px 0px rgba(40, 40, 40, 0.19),0px 100px 98px 0px rgba(58, 58, 65, 0.36),0px 191px 142px 0px rgba(123, 123, 140, 0.57);
+    overflow: scroll;
 }
 .popup-content{
     padding-left: 47.5%;
